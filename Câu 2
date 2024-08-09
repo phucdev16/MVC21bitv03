@@ -33,8 +33,7 @@ namespace MyApp.Controllers
         }
     }
 }
-4. Tạo View
-Tạo view Create.cshtml trong thư mục Views/Component để hiển thị form cho người dùng nhập dữ liệu:
+
 
 html
 Copy code
